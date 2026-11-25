@@ -14,6 +14,7 @@ Ei CSV-fil per kortstokk. Filene blir oppdaterte automatisk kvar kveld frå nota
 | `TMT4125NY.csv` | TMT4125 – ny stokk |
 | `TDT4110.csv` | TDT4110 |
 | `TMT4125_ventar.csv` | Kort om tema som ikkje er forelesne enno. Ikkje importer. |
+| `Laga i Anki/<stokk>.csv` | Kort eg har laga direkte i Anki (ikkje i filene over). Kolonne 1 er kortstokken. |
 
 ## Importere i Anki
 
