@@ -8,7 +8,7 @@ Anki-kortstokkane eg brukar på MTKMB (materialteknologi) ved NTNU. Korta er lag
 |---|---|---|
 | `TMA4400 Matematikk – hovudstokk.csv` | TMA4400 | Lineær algebra, komplekse tal, grenser, derivasjon, ODE, numerikk |
 | `TMA4400 Matematikk – integrasjon og formlar.csv` | TMA4400 – småting | Standardintegral, integrasjonsmetodar, volum og buelengd, formlar |
-| `TMA4400 Matematikk – cloze.csv` | TMA4400 – småting | Cloze-kort laga direkte i Anki (notetypen `MTKMB-cloze`) |
+| `TMA4400 Matematikk – boost.csv` | TMA4400 Matematikk – boost | Liten stokk mot gløyming før eksamen: feilestimat, implisitt derivasjon, diagonalisering, komplekse røter. Både `MTKMB-kort` og `MTKMB-cloze` |
 | `TMT4111 Kjemi.csv` | TMT4111 | Gassar, likevekt, syre–base, termodynamikk, løyselegheit |
 | `TMT4125 Materialteknologi – hovudstokk.csv` | TMT4125 | Krystallstruktur, defektar, diffusjon, materialklassar, mekaniske eigenskapar |
 | `TMT4125 Materialteknologi – eigne notat.csv` | TMT4125 – ny stokk | Same fag frå eigne notat, pluss brot, utmatting, fasediagram og faseomvandling |
