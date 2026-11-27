@@ -1,0 +1,7 @@
+#separator:Comma
+#html:true
+#deck column:1
+#notetype column:2
+#tags column:8
+"TMA4400 – småting","MTKMB-cloze","Når \(n\) blir dobla, krympar feilgrensa for trapes med faktor {{c1::4}} og for Simpson med faktor {{c2::16}}.","","Trapes \(\propto\frac{1}{n^2}\), Simpson \(\propto\frac{1}{n^4}\). Dobling gir \(2^2\) og \(2^4\).","Midtpunkt oppfører seg som trapes (faktor 4).","Claude-oppsummering 27.11","eigne_notat GRENSETILFELLE TMA4400NY::numerisk-integrasjon"
+"TMA4400 – småting","MTKMB-cloze","\(\arg(-8i)=\) {{c1::\(\frac{3\pi}{2}\) (eller \(-\frac{\pi}{2}\))}}. Punktet ligg på ein akse, så du les av vinkelen i staden for å bruke {{c1::arctan}}.","","Når \(a=0\) er \(\frac ba\) ikkje definert. Teikn punktet først: positiv Re \(0\), positiv Im \(\frac\pi2\), negativ Re \(\pi\), negativ Im \(\frac{3\pi}{2}\).","arctan ser berre forholdet, ikkje kvadranten.","Claude-oppsummering 27.11","eigne_notat felle TMA4400NY::komplekse"
